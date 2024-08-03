@@ -14,6 +14,7 @@ This notebook visualizes the temperature differences in the Taiwan Strait over t
 This notebook performs Exploratory Data Analysis (EDA) on the distribution of Gray Mullet, using TBIA's open data. The main tasks in this notebook include:
 
 - Aligning dates to a "standard date" format
+- Exclude certain data which not meet our needs.Such as 'specimen' will be drop out. 
 - Cleaning missing values using representative descriptive statistics such as mean or mode
 - Analyzing the distribution patterns of Gray Mullet in Taiwanese waters
 
